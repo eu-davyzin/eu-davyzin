@@ -1,4 +1,4 @@
-# Davy Pereira Dev
+# Davy Pereira do Nascimento 
 ---
 ##  Tecnologias
 ![JavaScript](https://github.com/eu-davyzin/Davy-Pereira-Dev/blob/main/img/js.png)
