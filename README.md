@@ -1,2 +1,3 @@
 # Davy Pereira Dev
- Config files for my GitHub profile.
+---
+![Python](https://github.com/eu-davyzin/Davy-Pereira-Dev/blob/main/img/py.png)
