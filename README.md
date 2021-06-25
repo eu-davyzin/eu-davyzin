@@ -1,8 +1,9 @@
 # Davy Pereira do Nascimento 
 ---
-##  Tecnologias
-![JavaScript](https://github.com/eu-davyzin/Davy-Pereira-Dev/blob/main/img/js.png)
-![Dart](https://github.com/eu-davyzin/Davy-Pereira-Dev/blob/main/img/dart.png)
-![Python](https://github.com/eu-davyzin/Davy-Pereira-Dev/blob/main/img/py.png)
-![HTMLeCSS](https://github.com/eu-davyzin/Davy-Pereira-Dev/blob/main/img/html_css.png)
+## Meu Site [Pessoal](https://eu-davyzin.github.io/Site-Pessoal/)🤓🖖
+---
+
+## Tecnologias mais usadas
+
+![Python](https://github.com/eu-davyzin/eu-davyzin/blob/main/img/py.png) ![JavaScript](https://github.com/eu-davyzin/eu-davyzin/blob/main/img/js.png)
 ---
