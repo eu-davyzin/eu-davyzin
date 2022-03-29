@@ -9,9 +9,9 @@
 
 ### About me🤴
 I'm a backend and frontend developer at [@cybersecbrazil](https://www.instagram.com/cybersecbraziloficial/).🐱‍💻
-Meu foco no momento é Automatização de tarefas com python, e desenvolvimento front-end na web.
+My focus at the moment is Automating tasks with python, and front-end web development.
 * **Hobby** 🎮 - I love programming.
-* [Website](eu-davyzin.github.io/mypage/) 💻 - Working on it.
+* [Website](eu-davyzin.github.io/mypage/) 💻 - Learn more about me here.
 * **Ocupations** 👨‍💻 - I have busy days, with training from Monday to Friday in the morning, studies in the afternoon, and at night I always have a commitment, in my free time I study programming and develop projects.
 
 ## 🚀💻Technologies & Tools
