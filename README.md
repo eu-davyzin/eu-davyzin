@@ -8,7 +8,7 @@
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eu.davyzin/)](https://www.instagram.com/eu.davyzin/)
 
 ### About me🤴
-I'm a backend and frontend developer and ethical hacker at [@cybersecbrazil](https://www.instagram.com/cybersecbraziloficial/).🐱‍💻
+I'm a backend and frontend developer at [@cybersecbrazil](https://www.instagram.com/cybersecbraziloficial/).🐱‍💻
 * **Hobby** 🎮 - I love programming.
 * [Website](eu-davyzin.github.io/mypage/) 💻 - Working on it.
 * **Ocupations** 👨‍💻 - I have busy days, with training from Monday to Friday in the morning, studies in the afternoon, and at night I always have a commitment, in my free time I study programming and develop projects.
